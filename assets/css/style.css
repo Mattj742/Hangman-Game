@@ -1,0 +1,33 @@
+body {
+	font-family: 'Graduate', cursive;
+	text-align: center;
+	background-image: url("../images/basketball-floor.jpg");
+	background-size: 100%;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+h1 {
+	color: lightblue;
+	font-size: 70px;
+	font-weight: 700;
+	text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+
+.col-md-6 {
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	height: 400px;
+}
+p {
+	line-height: 40px;
+}
+
+.randomWord {
+	line-height: 80px;
+}
